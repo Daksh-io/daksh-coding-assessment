@@ -1,5 +1,6 @@
-# I do all the questions both problem statements. 
-# I'm also provide "problem statement 2" doc file in this repo.
-# but first problem statement, Q5 not done yet so that's the reason leave it.
-# And Q4 I'm already done so I'm provide link is down below.
+# I complete both of the problem statements and all of the questions.
+# The "problem statement 2" document is also included in this repository.
+# Unfortunately, I am leaving question 5 from problem statement 1. 
+# It because I haven't worked on any complicated database code lately.
+# I've already finished Q4, so I've included the link below.
 "https://github.com/Daksh-io/LangGraph-Agent"
