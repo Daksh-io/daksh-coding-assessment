@@ -15,11 +15,11 @@ def fetch_scores():
     # In real case: response = requests.get("https://api.example.com/scores").json().
     # But now we are only have simulated data okay.
     data = [
-        {"name": "Alice", "score": 85},
-        {"name": "Bob", "score": 90},
+        {"name": "Alex", "score": 85},
+        {"name": "Bak", "score": 90},
         {"name": "Charlie", "score": 78},
         {"name": "David", "score": 92},
-        {"name": "Eva", "score": 88}
+        {"name": "Evaly", "score": 88}
     ]
     return data
 
@@ -58,3 +58,4 @@ if __name__ == "__main__":
     avg_score, scores = calculate_average(data)
     print(f"Average Score: {avg_score:.2f}")
     visualize_scores(data, avg_score)
+
